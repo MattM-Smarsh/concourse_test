@@ -7,4 +7,4 @@ image_resource:
 
 run:
   path: echo
-  args: [hello world xyz abc 123 456 789]
+  args: [hello elias]
