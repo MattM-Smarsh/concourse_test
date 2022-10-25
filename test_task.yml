@@ -7,4 +7,4 @@ image_resource:
 
 run:
   path: echo
-  args: [hello xyz]
+  args: [hello xyz 3.14159]
